@@ -38,14 +38,7 @@ const Impressum = () => {
             <p className="text-lg font-semibold">Vertretungsberechtigte Person:</p>
             <p>Tim Hinsche</p>
 
-            <div className="border-t border-gray-500 my-6"></div>
-
-            {/* VAT Information */}
-            <p className="text-sm">
-              Umsatzsteuer-Identifikationsnummer (EU) gemäß § 27 a UStG:
-            </p>
-            <p className="text-sm">DE88940236510</p>
-
+           
             <div className="border-t border-gray-500 my-6"></div>
 
             {/* Phone Information */}
