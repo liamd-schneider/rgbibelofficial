@@ -43,7 +43,7 @@ export async function POST(req) {
         enabled: true,
       },
       shipping_address_collection: {
-        allowed_countries: ['DE', 'AT', 'CH'], // Germany, Austria, Switzerland
+        allowed_countries: ['DE', 'AT', 'CH', 'LT'], // Germany, Austria, Switzerland
       },
       success_url: `http://rgbibelofficial.com/success`,
       cancel_url: `http://rgbibelofficial.com/cancel`,
